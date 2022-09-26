@@ -5,8 +5,8 @@ body{
 }
 
 #upperblock{
-    color: pink;
-    background-color: hotpink;
+    color: white;
+    background-color: #680102;
     
     text-align: center;
     
@@ -39,6 +39,14 @@ body{
     
     margin-bottom: 20px;
     padding: 0 20px;
+}
+
+#navigation a:hover{
+    color: black;
+}
+
+#navigation a:active{
+    color: #680102;
 }
 
 #title{
