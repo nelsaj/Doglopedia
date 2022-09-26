@@ -53,8 +53,14 @@ body{
 
 #content{
     font-size: 14px;
+    border-bottom: 1px solid lightgray;
 }
 
 .padding{
     padding: 5px 0;
+}
+
+#copyright{
+    text-align: center;
+    padding: 20px 0;
 }
