@@ -7,7 +7,9 @@ body{
 #upperblock{
     color: pink;
     background-color: hotpink;
+    
     text-align: center;
+    
     padding: 10px;
     margin-top: 10px;
     border-radius: 5px;
@@ -30,11 +32,13 @@ body{
 
 #navigation a{
     display: inline-block;
+    
     color: gray;
-    margin-bottom: 20px;
-    padding: 0 20px;
     text-decoration:dotted;
     font-size: 15px;
+    
+    margin-bottom: 20px;
+    padding: 0 20px;
 }
 
 #title{
@@ -44,9 +48,11 @@ body{
 #circle{
     height: 300px;
     width: 300px;
+    
     background-color: gray;
     border: 1px solid black;
     border-bottom: 2px solid black;
+    
     margin: auto;
     border-radius: 50%;
 
