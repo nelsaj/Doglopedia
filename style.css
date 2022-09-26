@@ -36,3 +36,17 @@ body{
     text-decoration:dotted;
     font-size: 15px;
 }
+
+#title{
+    text-align: center;
+}
+
+#circle{
+    height: 300px;
+    width: 300px;
+    background-color: gray;
+    border: 1px solid black;
+    border-bottom: 2px solid black;
+    margin: auto;
+    border-radius: 50%;
+}
