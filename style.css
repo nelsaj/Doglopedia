@@ -50,3 +50,11 @@ body{
     margin: auto;
     border-radius: 50%;
 }
+
+#content{
+    font-size: 14px;
+}
+
+.padding{
+    padding: 5px 0;
+}
