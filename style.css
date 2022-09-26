@@ -49,6 +49,11 @@ body{
     border-bottom: 2px solid black;
     margin: auto;
     border-radius: 50%;
+
+    background-image: url(husky.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 #content{
