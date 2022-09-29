@@ -5,8 +5,8 @@ body{
 }
 
 #upperblock{
-    color: white;
-    background-color: #680102;
+    color: #94805a;
+    background-color: #f5f5dc;
     
     text-align: center;
     
@@ -33,7 +33,7 @@ body{
 #navigation a{
     display: inline-block;
     
-    color: gray;
+    color: black;
     border-bottom: 1.5px dotted;
     text-decoration: none;
     font-size: 15px;
@@ -42,11 +42,11 @@ body{
 }
 
 #navigation a:hover{
-    color: black;
+    color: gray;
 }
 
 #navigation a:active{
-    color: #680102;
+    color: lightgray;
 }
 
 #title{
